@@ -1,0 +1,123 @@
+body{
+    font-family: 'Merriweather', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+.flex-part{
+    display: flex;
+    padding: 10px;
+    margin-left: 15%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+.half-width{
+    width: 50%;
+    padding: 10px;
+}
+
+.half-width img{
+    width: 80%;
+}
+
+.half-width div{
+    border-left: 5px solid rgb(223, 50, 7);
+}
+.heading-design{
+    color: yellowgreen;
+    padding-left: 10px;
+    font-size: 25px;
+}
+.click-button{
+    text-decoration: none;
+    background-color: rgb(2, 132, 155);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 800;
+    color: white;
+}
+
+
+
+
+
+.second-section{
+    text-align: center;
+}
+.mission-heading{
+    color: rgb(12, 2, 70);
+    font-size: 30px;
+}
+.my-missions{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+.box-sizing{
+    width: 250px;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 15px;
+}
+
+.box-sizing img{
+    width: 40%;
+}
+
+#background-1{
+    background-color: rgb(241, 224, 155);
+}
+#background-2{
+    background-color: rgb(139, 124, 253);
+}
+#background-3{
+    background-color: rgb(246, 149, 255);
+}
+
+
+.flex-documents{
+    display: flex;
+    padding: 10px;
+    margin-left: 14%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+.flex-documents img{
+    width: 80%;
+}
+
+.course-suggest{
+    text-align: center;
+}
+
+.course-suggest h1, h4{
+    color: rgb(0, 0, 68);
+}
+
+.course-suggest p{
+    text-align: justify;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+
+
+
+footer{
+    text-align: center;
+    margin-top: 10%;
+    padding: 2%;
+    background-color: rgb(80, 0, 90);
+}
+footer h1{
+    color: darkturquoise;
+}
+footer p{
+    color: darksalmon;
+}
+footer span{
+    color: rgb(210, 241, 71);
+}
+
